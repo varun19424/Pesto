@@ -1,0 +1,5 @@
+
+Timestamp,User ID,Ad Campaign ID,Conversion Type
+2024-02-26 08:35:00,123,1,Signup
+2024-02-26 09:20:00,456,2,Purchase
+2024-02-26 10:05:00,789,3,Signup
